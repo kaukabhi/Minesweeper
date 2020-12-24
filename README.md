@@ -2,6 +2,10 @@
 
 Implemented Minesweeper game without a graphical interface.
 
+Steps to run the game:
+
+I have created Minesweeper.java class. Run it and it will ask you to enter the grid size, mines, row and column on every play.
+
 Rules to play:
 
 1. Create a board of size n * n tiles.
