@@ -6,6 +6,10 @@ Steps to run the game:
 
 I have created Minesweeper.java class. Run it and it will ask you to enter the grid size, mines, row and column on every play.
 
+Currently, you cannot create a grid larger than 30 * 30 tiles. 
+
+The total mines cannot exceed the total tiles in the grid.
+
 Rules to play:
 
 1. Create a board of size n * n tiles.
